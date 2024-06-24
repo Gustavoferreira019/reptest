@@ -77,10 +77,11 @@ body{
 }
 
 .firm-container {
-    padding: 0;
+    padding:0;
     margin-right: 0;
     background-color: $bg-nav;
     height: 100vh;
+    
 }
 
 .presentation-container{
@@ -148,6 +149,14 @@ body{
     padding: 0 20px;
     color: $letter-color;
     font-family: $font;
+}
+
+.container-title-qm{
+    margin-top: -150px;
+}
+
+.contain-present{
+    margin-top: 100px;
 }
 
 .qmfooter-title::before,
@@ -370,7 +379,7 @@ body{
 }
 
 .container-orcamento {
-    height: 600px;
+    height: 683px;
     margin-bottom: 25px;
 }
 

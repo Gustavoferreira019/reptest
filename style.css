@@ -140,6 +140,14 @@ body {
   font-family: "Rubik", sans-serif;
 }
 
+.container-title-qm {
+  margin-top: -150px;
+}
+
+.contain-present {
+  margin-top: 100px;
+}
+
 .qmfooter-title::before,
 .qmfooter-title::after {
   content: "";
@@ -350,7 +358,7 @@ body {
 }
 
 .container-orcamento {
-  height: 600px;
+  height: 683px;
   margin-bottom: 25px;
 }
 
