@@ -341,7 +341,15 @@ body{
 }
 
 .paragraph-orc{
-    color: white;
+    color: $white;
+    font-size: 25px;
+    text-shadow: 1px 1px 6px black;
+}
+
+.h-orc{
+    color: $white;
+    font-size: 44px;
+    text-shadow: 1px 0px 6px black;
 }
 
 .card-container:hover {
